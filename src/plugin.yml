@@ -1,0 +1,10 @@
+name: BookShopPLugin
+authors: [ralmn, Ephys]
+website: http://aperturelaboratories.eu/bookshop/
+description: Plugins for BookShop
+version: 1.0
+main: fr.ralmn.bookshop.Main
+
+commands:
+    bookshop:
+        usage: /<command> dl [book id] | /<command> list [user] |/<command> upload [token] 
