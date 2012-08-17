@@ -1,0 +1,4 @@
+BookShopPlugin
+==============
+
+Plugin for Bookshop 
